@@ -1,12 +1,64 @@
-# Atliq-Grands-Revenue-Insight
-##Challenge: Provide Insights to the Revenue Team in the Hospitality Domain
-Domain:  Hospitality       Function: Revenue
-AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
+# AtliQ Grands Revenue Insight
 
-Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
-Task:  
+## Project Overview
+AtliQ Grands, a luxury five-star hotel chain in India, has been experiencing a decline in market share and revenue due to strategic competition and ineffective decision-making. To address this challenge, the managing director has decided to leverage **Business and Data Intelligence** to make informed revenue-based decisions. Since AtliQ Grands lacks an in-house data analytics team, a third-party service provider has been hired to analyze historical data and provide actionable insights.
 
-You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. 
-1.	Create the metrics according to the metric list.
-2.	Create a dashboard according to the mock-up provided by stakeholders.
-3.	Create relevant insights that are not provided in the metric list/mock-up dashboard.
+## Objective
+As a data analyst, your task is to analyze the sample dataset and create an interactive dashboard that presents key revenue-related metrics. The final output should help the **Revenue Management Team** make data-driven decisions to improve market position and financial performance.
+
+## Tasks
+1. **Create Metrics**: Develop the required KPIs based on the provided metric list.
+2. **Design Dashboard**: Develop an interactive dashboard as per the stakeholder-provided mock-up.
+3. **Generate Insights**: Identify additional relevant insights that are not explicitly covered in the metric list or dashboard.
+
+## Deliverables
+- **A comprehensive dashboard** visualizing key revenue metrics.
+- **Well-documented calculations and methodology** for each metric.
+- **Detailed insights and recommendations** derived from the analysis.
+
+## Key Metrics
+Below are the essential metrics and their meanings:
+
+| Metric Name                 | Description |
+|-----------------------------|----------------------------------------------------------------|
+| **Revenue**                 | Total revenue realized from bookings. |
+| **Total Bookings**          | Total number of bookings made. |
+| **Total Capacity**          | Total capacity of rooms available in the hotels. |
+| **Total Successful Bookings** | Number of successfully completed bookings. |
+| **Occupancy %**             | Percentage of total successful bookings relative to total capacity. |
+| **Average Rating**          | Average customer ratings for hotel stays. |
+| **Number of Days**          | Total number of days available in the dataset. |
+| **Week Number (wn)**        | Extracts the week number from the date field. |
+| **Day Type**                | Categorizes days based on stakeholder feedback (e.g., weekday/weekend). |
+
+## Dashboard Features
+The dashboard will include:
+- **Revenue Summary**: Overview of total revenue, occupancy rates, and ADR.
+- **Trend Analysis**: Revenue and occupancy trends over time.
+- **Location-Based Performance**: Revenue breakdown by hotel locations.
+- **Customer Insights**: Booking patterns and customer preferences.
+- **Competitive Analysis**: Benchmarking against industry trends.
+
+## Additional Insights
+Beyond the given metrics, additional insights will be derived to uncover:
+- The impact of seasonality on revenue.
+- High-value customer segments and their booking behaviors.
+- The effectiveness of promotional campaigns.
+- Forecasting future revenue trends based on historical data.
+
+## Tools & Technologies Used
+- **Data Processing**: Python (Pandas, NumPy)
+- **Visualization & Dashboard**: Power BI / Tableau
+- **Database Management**: SQL
+- **Statistical Analysis & Forecasting**: Machine Learning (Time Series Analysis)
+
+## Conclusion
+This project aims to provide AtliQ Grands with a **data-driven strategic approach** to revenue management. The insights generated will empower decision-makers with **actionable intelligence** to regain market share and enhance financial performance.
+
+---
+
+**Author**: Prashant Verma
+**Role**: Data Analyst
+
+*This is a guided project courtesy of [Code Basics](https://codebasics.io/).*
+
