@@ -54,13 +54,13 @@ The dashboard will include:
 ## Additional Insights
 Beyond the given metrics, additional insights will be derived to uncover:
 - The impact of seasonality on revenue.
-- High-value customer segments and their booking behaviors.
+- High-value customer segments and their booking behaviours.
 - The effectiveness of promotional campaigns.
 - Forecasting future revenue trends based on historical data.
 
 ## Tools & Technologies Used
 - **Data Processing**: Python (Pandas, NumPy)
-- **Visualization & Dashboard**: Power BI / Tableau
+- **Visualization & Dashboard**: Power BI
 - **Database Management**: SQL
 - **Statistical Analysis & Forecasting**: Machine Learning (Time Series Analysis)
 
