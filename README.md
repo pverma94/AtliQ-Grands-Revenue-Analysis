@@ -1,4 +1,4 @@
-# AtliQ Grands Revenue Insight
+# AtliQ-Grands-Revenue-Analysis
 
 ## Project Overview
 AtliQ Grands, a luxury five-star hotel chain in India, has been experiencing a decline in market share and revenue due to strategic competition and ineffective decision-making. To address this challenge, the managing director has decided to leverage **Business and Data Intelligence** to make informed revenue-based decisions. Since AtliQ Grands lacks an in-house data analytics team, a third-party service provider has been hired to analyze historical data and provide actionable insights.
