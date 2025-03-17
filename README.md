@@ -1,4 +1,4 @@
-# AtliQ-Grands-Revenue-Analysis
+# AtliQ Grands Revenue Insight
 
 ## Project Overview
 AtliQ Grands, a luxury five-star hotel chain in India, has been experiencing a decline in market share and revenue due to strategic competition and ineffective decision-making. To address this challenge, the managing director has decided to leverage **Business and Data Intelligence** to make informed revenue-based decisions. Since AtliQ Grands lacks an in-house data analytics team, a third-party service provider has been hired to analyze historical data and provide actionable insights.
@@ -12,6 +12,8 @@ The objective of this analysis is to examine the sample dataset and create an in
 3. **Generate Insights**: Identify additional relevant insights that are not explicitly covered in the metric list or dashboard.
 
 ## Deliverables
+
+- **Interactive Power BI Dashboard**: [View the dashboard here](https://app.powerbi.com/links/UpJ6vGWiBy?ctid=49bba7a4-424b-4070-a70e-886e9dd7caef&pbi_source=linkShare).
 - **A comprehensive dashboard** visualizing key revenue metrics.
 - **Well-documented calculations and methodology** for each metric.
 - **Detailed insights and recommendations** derived from the analysis.
@@ -54,13 +56,13 @@ The dashboard will include:
 ## Additional Insights
 Beyond the given metrics, additional insights will be derived to uncover:
 - The impact of seasonality on revenue.
-- High-value customer segments and their booking behaviours.
+- High-value customer segments and their booking behaviors.
 - The effectiveness of promotional campaigns.
 - Forecasting future revenue trends based on historical data.
 
 ## Tools & Technologies Used
 - **Data Processing**: Python (Pandas, NumPy)
-- **Visualization & Dashboard**: Power BI
+- **Visualization & Dashboard**: Power BI / Tableau
 - **Database Management**: SQL
 - **Statistical Analysis & Forecasting**: Machine Learning (Time Series Analysis)
 
@@ -71,5 +73,7 @@ This project aims to provide AtliQ Grands with a **data-driven strategic approac
 
 **Author**: Prashant Verma  
 **Role**: Data Analyst  
+**Date**: [Project Completion Date]
 
 *This is a guided project courtesy of [Code Basics](https://codebasics.io/).*
+
