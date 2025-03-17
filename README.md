@@ -61,10 +61,8 @@ Beyond the given metrics, additional insights will be derived to uncover:
 - Forecasting future revenue trends based on historical data.
 
 ## Tools & Technologies Used
-- **Data Processing**: Python (Pandas, NumPy)
-- **Visualization & Dashboard**: Power BI / Tableau
+- **Visualization & Dashboard**: Power BI
 - **Database Management**: SQL
-- **Statistical Analysis & Forecasting**: Machine Learning (Time Series Analysis)
 
 ## Dashboard Preview
 ![AtliQ Grands Revenue Dashboard](https://github.com/pverma94/AtliQ-Grands-Revenue-Analysis/blob/055298603c549589e0160d23b00fd7feeb94957b/dashboard_preview.jpg)
