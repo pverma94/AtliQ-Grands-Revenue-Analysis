@@ -61,10 +61,8 @@ Beyond the given metrics, additional insights will be derived to uncover:
 - Forecasting future revenue trends based on historical data.
 
 ## Tools & Technologies Used
-- **Data Processing**: Python (Pandas, NumPy)
 - **Visualization & Dashboard**: Power BI / Tableau
 - **Database Management**: SQL
-- **Statistical Analysis & Forecasting**: Machine Learning (Time Series Analysis)
 
 ## Conclusion
 This project aims to provide AtliQ Grands with a **data-driven strategic approach** to revenue management. The insights generated will empower decision-makers with **actionable intelligence** to regain market share and enhance financial performance.
