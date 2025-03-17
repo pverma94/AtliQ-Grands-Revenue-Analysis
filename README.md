@@ -67,7 +67,7 @@ Beyond the given metrics, additional insights will be derived to uncover:
 - **Statistical Analysis & Forecasting**: Machine Learning (Time Series Analysis)
 
 ## Dashboard Preview
-![AtliQ Grands Revenue Dashboard](dashboard.jpg)
+![AtliQ Grands Revenue Dashboard]([dashboard.jpg](https://github.com/pverma94/AtliQ-Grands-Revenue-Analysis/blob/055298603c549589e0160d23b00fd7feeb94957b/dashboard_preview.jpg))
 
 ## Conclusion
 This project aims to provide AtliQ Grands with a **data-driven strategic approach** to revenue management. The insights generated will empower decision-makers with **actionable intelligence** to regain market share and enhance financial performance.
