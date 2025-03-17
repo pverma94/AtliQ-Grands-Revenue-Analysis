@@ -61,7 +61,7 @@ Beyond the given metrics, additional insights will be derived to uncover:
 - Forecasting future revenue trends based on historical data.
 
 ## Tools & Technologies Used
-- **Visualization & Dashboard**: Power BI / Tableau
+- **Visualization & Dashboard**: Power BI
 - **Database Management**: SQL
 
 ## Conclusion
