@@ -56,7 +56,7 @@ The dashboard will include:
 ## Additional Insights
 Beyond the given metrics, additional insights will be derived to uncover:
 - The impact of seasonality on revenue.
-- High-value customer segments and their booking behaviors.
+- High-value customer segments and their booking behaviours.
 - The effectiveness of promotional campaigns.
 - Forecasting future revenue trends based on historical data.
 
@@ -74,7 +74,6 @@ This project aims to provide AtliQ Grands with a **data-driven strategic approac
 
 **Author**: Prashant Verma  
 **Role**: Data Analyst  
-**Date**: [Project Completion Date]
 
 *This is a guided project courtesy of [Code Basics](https://codebasics.io/).*
 
